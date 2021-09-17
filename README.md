@@ -59,8 +59,12 @@ Well, here's the gameplay samples
 
 ![Encouter boss](https://user-images.githubusercontent.com/44834632/133763387-9cd0a6ac-233d-41af-ad94-d4ff325346dc.png)
 
-Author:-
 
-[candiepih](https://github.com/candiepih)
 
-mutheeal.am@gmail.com
+# Author
+
+Github: [candiepih](https://github.com/candiepih)
+
+Email: mutheeal.am@gmail.com
+
+Web: [alexsteve.me](https://alexsteve.me)

@@ -4,7 +4,13 @@
 
 # Overview
 
-A game I created using [Unity Game Engine](https://unity.com/) while learning game development in unity and it's various workflows. It's a third person shooter game that I call which is full of arcade action, inspired by the original DOOM game. I used this project to understand concepts on coding and design, plus it was lots of fun too while designing it and putting various components together to see it come life.
+A game I created using [Unity Game Engine](https://unity.com/) while learning game development in unity and it's various workflows. It's a third person shooter game which is full of arcade action, inspired by the original DOOM game. I used this project to understand concepts on coding and design, plus it was lots of fun too while designing it and putting various components together to see it come life.
+
+# Getting Into The Game
+
+This repository contains source code and assets for this project. It doen't contains executable binaries for opening the game.
+
+To play this game you can download or clone this repository and open the folder in [Unity Game Engine](https://unity.com/). You can choose to play it there or build it for whichever platform you wish. This project isn't optimized for mobile phones. Also this project was entirely for learning purpose hence you might face various unintended behaviours and I wouldn't recommend it for production, but with various improvements I would. Goodluck killing some vampires.
 
 # Info
 

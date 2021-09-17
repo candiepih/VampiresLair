@@ -28,3 +28,22 @@ You have to collect weapon pickups to switch weapons that can be used to kill va
 `Mouse move Up/Down` - Aim up/down
 
 
+Well, here's the gameplay samples
+
+### Minions Encounter
+
+![Gameplay1](https://user-images.githubusercontent.com/44834632/133762934-2953cc22-07e9-4d0d-8eb6-6cd8162859e2.png)
+
+![SHOOTING](https://user-images.githubusercontent.com/44834632/133763085-77b1a74d-0b79-476f-b48c-e3beeb0da9b7.png)
+
+![shooting3](https://user-images.githubusercontent.com/44834632/133763207-8ab17147-eff7-43a2-af1f-b1231a62b343.png)
+
+![blood   gore](https://user-images.githubusercontent.com/44834632/133763545-f2255261-8795-4a84-bb50-9f88813ce80e.png)
+
+![LayerGore](https://user-images.githubusercontent.com/44834632/133763580-b4a02388-9948-4700-beb3-b2250d186f73.png)
+
+
+### Boss Minion Encounter
+
+![Encouter boss](https://user-images.githubusercontent.com/44834632/133763387-9cd0a6ac-233d-41af-ad94-d4ff325346dc.png)
+

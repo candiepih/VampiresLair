@@ -10,7 +10,13 @@ A game I created using [Unity Game Engine](https://unity.com/) while learning ga
 
 This repository contains source code and assets for this project. It doen't contains executable binaries for opening the game.
 
-To play this game you can download or clone this repository and open the folder in [Unity Game Engine](https://unity.com/). You can choose to play it there or build it for whichever platform you wish. This project isn't optimized for mobile phones. Also this project was entirely for learning purpose hence you might face various unintended behaviours and I wouldn't recommend it for production, but with various improvements I would. Goodluck killing some vampires.
+Instructions to get you to play:-
+
+* You can download or clone this repository.
+* Open the folder in [Unity Game Engine](https://unity.com/).
+* You can choose to playtest it in unity or build it for whichever platform you wish.
+
+This project isn't optimized for mobile phones. Also this project was entirely for learning purpose hence you might face various unintended behaviours and I wouldn't recommend it for production, but with various improvements I would. Goodluck killing some vampires.
 
 # Info
 

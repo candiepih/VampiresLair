@@ -15,6 +15,14 @@ You have to collect weapon pickups to switch weapons that can be used to kill va
 
 # Controls
 
-W - Move character forward
-S - Move character Backward
-Mouse Left/Right - Switch look direction left right while moving/aiming/shooting
+`W` - Move character forward
+
+`S` - Move character Backward
+
+`Mouse Right-click` - Aiming
+
+`Mouse Left-click` - Shooting
+
+`Mouse move Left/Right` - Switch look direction left-right while moving/aiming/shooting
+
+`Mouse move Up/Down` - Aim up/down

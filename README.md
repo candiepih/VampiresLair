@@ -4,7 +4,7 @@
 
 # Overview
 
-A game I created in unity while learning game development in unity and it's various workflows. It's a third person shooter game that I call which is full of arcade action, inspired by the original DOOM game. I used this project to understand concepts on coding and design, plus it was lots of fun too while designing it and putting various components together to see it come life.
+A game I created using [Unity Game Engine](https://unity.com/) while learning game development in unity and it's various workflows. It's a third person shooter game that I call which is full of arcade action, inspired by the original DOOM game. I used this project to understand concepts on coding and design, plus it was lots of fun too while designing it and putting various components together to see it come life.
 
 # Info
 
